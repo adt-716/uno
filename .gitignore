@@ -1,0 +1,26 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local credentials (keep the configuration template)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated screenshots and local caches
+screenshots/
+.vite/
+.cache/
+.context-slice/
+*.log
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

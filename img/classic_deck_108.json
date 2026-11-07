@@ -1,0 +1,434 @@
+[
+  {
+    "id": "classic_001",
+    "image": "cards/classic/red/number_0.png"
+  },
+  {
+    "id": "classic_002",
+    "image": "cards/classic/red/number_1.png"
+  },
+  {
+    "id": "classic_003",
+    "image": "cards/classic/red/number_1.png"
+  },
+  {
+    "id": "classic_004",
+    "image": "cards/classic/red/number_2.png"
+  },
+  {
+    "id": "classic_005",
+    "image": "cards/classic/red/number_2.png"
+  },
+  {
+    "id": "classic_006",
+    "image": "cards/classic/red/number_3.png"
+  },
+  {
+    "id": "classic_007",
+    "image": "cards/classic/red/number_3.png"
+  },
+  {
+    "id": "classic_008",
+    "image": "cards/classic/red/number_4.png"
+  },
+  {
+    "id": "classic_009",
+    "image": "cards/classic/red/number_4.png"
+  },
+  {
+    "id": "classic_010",
+    "image": "cards/classic/red/number_5.png"
+  },
+  {
+    "id": "classic_011",
+    "image": "cards/classic/red/number_5.png"
+  },
+  {
+    "id": "classic_012",
+    "image": "cards/classic/red/number_6.png"
+  },
+  {
+    "id": "classic_013",
+    "image": "cards/classic/red/number_6.png"
+  },
+  {
+    "id": "classic_014",
+    "image": "cards/classic/red/number_7.png"
+  },
+  {
+    "id": "classic_015",
+    "image": "cards/classic/red/number_7.png"
+  },
+  {
+    "id": "classic_016",
+    "image": "cards/classic/red/number_8.png"
+  },
+  {
+    "id": "classic_017",
+    "image": "cards/classic/red/number_8.png"
+  },
+  {
+    "id": "classic_018",
+    "image": "cards/classic/red/number_9.png"
+  },
+  {
+    "id": "classic_019",
+    "image": "cards/classic/red/number_9.png"
+  },
+  {
+    "id": "classic_020",
+    "image": "cards/classic/red/draw_two.png"
+  },
+  {
+    "id": "classic_021",
+    "image": "cards/classic/red/draw_two.png"
+  },
+  {
+    "id": "classic_022",
+    "image": "cards/classic/red/skip.png"
+  },
+  {
+    "id": "classic_023",
+    "image": "cards/classic/red/skip.png"
+  },
+  {
+    "id": "classic_024",
+    "image": "cards/classic/red/reverse.png"
+  },
+  {
+    "id": "classic_025",
+    "image": "cards/classic/red/reverse.png"
+  },
+  {
+    "id": "classic_026",
+    "image": "cards/classic/yellow/number_0.png"
+  },
+  {
+    "id": "classic_027",
+    "image": "cards/classic/yellow/number_1.png"
+  },
+  {
+    "id": "classic_028",
+    "image": "cards/classic/yellow/number_1.png"
+  },
+  {
+    "id": "classic_029",
+    "image": "cards/classic/yellow/number_2.png"
+  },
+  {
+    "id": "classic_030",
+    "image": "cards/classic/yellow/number_2.png"
+  },
+  {
+    "id": "classic_031",
+    "image": "cards/classic/yellow/number_3.png"
+  },
+  {
+    "id": "classic_032",
+    "image": "cards/classic/yellow/number_3.png"
+  },
+  {
+    "id": "classic_033",
+    "image": "cards/classic/yellow/number_4.png"
+  },
+  {
+    "id": "classic_034",
+    "image": "cards/classic/yellow/number_4.png"
+  },
+  {
+    "id": "classic_035",
+    "image": "cards/classic/yellow/number_5.png"
+  },
+  {
+    "id": "classic_036",
+    "image": "cards/classic/yellow/number_5.png"
+  },
+  {
+    "id": "classic_037",
+    "image": "cards/classic/yellow/number_6.png"
+  },
+  {
+    "id": "classic_038",
+    "image": "cards/classic/yellow/number_6.png"
+  },
+  {
+    "id": "classic_039",
+    "image": "cards/classic/yellow/number_7.png"
+  },
+  {
+    "id": "classic_040",
+    "image": "cards/classic/yellow/number_7.png"
+  },
+  {
+    "id": "classic_041",
+    "image": "cards/classic/yellow/number_8.png"
+  },
+  {
+    "id": "classic_042",
+    "image": "cards/classic/yellow/number_8.png"
+  },
+  {
+    "id": "classic_043",
+    "image": "cards/classic/yellow/number_9.png"
+  },
+  {
+    "id": "classic_044",
+    "image": "cards/classic/yellow/number_9.png"
+  },
+  {
+    "id": "classic_045",
+    "image": "cards/classic/yellow/draw_two.png"
+  },
+  {
+    "id": "classic_046",
+    "image": "cards/classic/yellow/draw_two.png"
+  },
+  {
+    "id": "classic_047",
+    "image": "cards/classic/yellow/skip.png"
+  },
+  {
+    "id": "classic_048",
+    "image": "cards/classic/yellow/skip.png"
+  },
+  {
+    "id": "classic_049",
+    "image": "cards/classic/yellow/reverse.png"
+  },
+  {
+    "id": "classic_050",
+    "image": "cards/classic/yellow/reverse.png"
+  },
+  {
+    "id": "classic_051",
+    "image": "cards/classic/green/number_0.png"
+  },
+  {
+    "id": "classic_052",
+    "image": "cards/classic/green/number_1.png"
+  },
+  {
+    "id": "classic_053",
+    "image": "cards/classic/green/number_1.png"
+  },
+  {
+    "id": "classic_054",
+    "image": "cards/classic/green/number_2.png"
+  },
+  {
+    "id": "classic_055",
+    "image": "cards/classic/green/number_2.png"
+  },
+  {
+    "id": "classic_056",
+    "image": "cards/classic/green/number_3.png"
+  },
+  {
+    "id": "classic_057",
+    "image": "cards/classic/green/number_3.png"
+  },
+  {
+    "id": "classic_058",
+    "image": "cards/classic/green/number_4.png"
+  },
+  {
+    "id": "classic_059",
+    "image": "cards/classic/green/number_4.png"
+  },
+  {
+    "id": "classic_060",
+    "image": "cards/classic/green/number_5.png"
+  },
+  {
+    "id": "classic_061",
+    "image": "cards/classic/green/number_5.png"
+  },
+  {
+    "id": "classic_062",
+    "image": "cards/classic/green/number_6.png"
+  },
+  {
+    "id": "classic_063",
+    "image": "cards/classic/green/number_6.png"
+  },
+  {
+    "id": "classic_064",
+    "image": "cards/classic/green/number_7.png"
+  },
+  {
+    "id": "classic_065",
+    "image": "cards/classic/green/number_7.png"
+  },
+  {
+    "id": "classic_066",
+    "image": "cards/classic/green/number_8.png"
+  },
+  {
+    "id": "classic_067",
+    "image": "cards/classic/green/number_8.png"
+  },
+  {
+    "id": "classic_068",
+    "image": "cards/classic/green/number_9.png"
+  },
+  {
+    "id": "classic_069",
+    "image": "cards/classic/green/number_9.png"
+  },
+  {
+    "id": "classic_070",
+    "image": "cards/classic/green/draw_two.png"
+  },
+  {
+    "id": "classic_071",
+    "image": "cards/classic/green/draw_two.png"
+  },
+  {
+    "id": "classic_072",
+    "image": "cards/classic/green/skip.png"
+  },
+  {
+    "id": "classic_073",
+    "image": "cards/classic/green/skip.png"
+  },
+  {
+    "id": "classic_074",
+    "image": "cards/classic/green/reverse.png"
+  },
+  {
+    "id": "classic_075",
+    "image": "cards/classic/green/reverse.png"
+  },
+  {
+    "id": "classic_076",
+    "image": "cards/classic/blue/number_0.png"
+  },
+  {
+    "id": "classic_077",
+    "image": "cards/classic/blue/number_1.png"
+  },
+  {
+    "id": "classic_078",
+    "image": "cards/classic/blue/number_1.png"
+  },
+  {
+    "id": "classic_079",
+    "image": "cards/classic/blue/number_2.png"
+  },
+  {
+    "id": "classic_080",
+    "image": "cards/classic/blue/number_2.png"
+  },
+  {
+    "id": "classic_081",
+    "image": "cards/classic/blue/number_3.png"
+  },
+  {
+    "id": "classic_082",
+    "image": "cards/classic/blue/number_3.png"
+  },
+  {
+    "id": "classic_083",
+    "image": "cards/classic/blue/number_4.png"
+  },
+  {
+    "id": "classic_084",
+    "image": "cards/classic/blue/number_4.png"
+  },
+  {
+    "id": "classic_085",
+    "image": "cards/classic/blue/number_5.png"
+  },
+  {
+    "id": "classic_086",
+    "image": "cards/classic/blue/number_5.png"
+  },
+  {
+    "id": "classic_087",
+    "image": "cards/classic/blue/number_6.png"
+  },
+  {
+    "id": "classic_088",
+    "image": "cards/classic/blue/number_6.png"
+  },
+  {
+    "id": "classic_089",
+    "image": "cards/classic/blue/number_7.png"
+  },
+  {
+    "id": "classic_090",
+    "image": "cards/classic/blue/number_7.png"
+  },
+  {
+    "id": "classic_091",
+    "image": "cards/classic/blue/number_8.png"
+  },
+  {
+    "id": "classic_092",
+    "image": "cards/classic/blue/number_8.png"
+  },
+  {
+    "id": "classic_093",
+    "image": "cards/classic/blue/number_9.png"
+  },
+  {
+    "id": "classic_094",
+    "image": "cards/classic/blue/number_9.png"
+  },
+  {
+    "id": "classic_095",
+    "image": "cards/classic/blue/draw_two.png"
+  },
+  {
+    "id": "classic_096",
+    "image": "cards/classic/blue/draw_two.png"
+  },
+  {
+    "id": "classic_097",
+    "image": "cards/classic/blue/skip.png"
+  },
+  {
+    "id": "classic_098",
+    "image": "cards/classic/blue/skip.png"
+  },
+  {
+    "id": "classic_099",
+    "image": "cards/classic/blue/reverse.png"
+  },
+  {
+    "id": "classic_100",
+    "image": "cards/classic/blue/reverse.png"
+  },
+  {
+    "id": "classic_101",
+    "image": "cards/classic/wild/wild.png"
+  },
+  {
+    "id": "classic_102",
+    "image": "cards/classic/wild/wild.png"
+  },
+  {
+    "id": "classic_103",
+    "image": "cards/classic/wild/wild.png"
+  },
+  {
+    "id": "classic_104",
+    "image": "cards/classic/wild/wild.png"
+  },
+  {
+    "id": "classic_105",
+    "image": "cards/classic/wild/wild_draw_four.png"
+  },
+  {
+    "id": "classic_106",
+    "image": "cards/classic/wild/wild_draw_four.png"
+  },
+  {
+    "id": "classic_107",
+    "image": "cards/classic/wild/wild_draw_four.png"
+  },
+  {
+    "id": "classic_108",
+    "image": "cards/classic/wild/wild_draw_four.png"
+  }
+]

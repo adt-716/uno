@@ -1,0 +1,562 @@
+[
+  {
+    "id": "flip_001",
+    "light": "cards/flip/light/red/number_1.png",
+    "dark": "cards/flip/dark/orange/number_4.png"
+  },
+  {
+    "id": "flip_002",
+    "light": "cards/flip/light/red/number_1.png",
+    "dark": "cards/flip/dark/pink/number_5.png"
+  },
+  {
+    "id": "flip_003",
+    "light": "cards/flip/light/red/number_2.png",
+    "dark": "cards/flip/dark/wild/wild.png"
+  },
+  {
+    "id": "flip_004",
+    "light": "cards/flip/light/red/number_2.png",
+    "dark": "cards/flip/dark/purple/skip_everyone.png"
+  },
+  {
+    "id": "flip_005",
+    "light": "cards/flip/light/red/number_3.png",
+    "dark": "cards/flip/dark/teal/skip_everyone.png"
+  },
+  {
+    "id": "flip_006",
+    "light": "cards/flip/light/red/number_3.png",
+    "dark": "cards/flip/dark/purple/number_7.png"
+  },
+  {
+    "id": "flip_007",
+    "light": "cards/flip/light/red/number_4.png",
+    "dark": "cards/flip/dark/teal/reverse.png"
+  },
+  {
+    "id": "flip_008",
+    "light": "cards/flip/light/red/number_4.png",
+    "dark": "cards/flip/dark/purple/number_6.png"
+  },
+  {
+    "id": "flip_009",
+    "light": "cards/flip/light/red/number_5.png",
+    "dark": "cards/flip/dark/purple/flip.png"
+  },
+  {
+    "id": "flip_010",
+    "light": "cards/flip/light/red/number_5.png",
+    "dark": "cards/flip/dark/pink/number_1.png"
+  },
+  {
+    "id": "flip_011",
+    "light": "cards/flip/light/red/number_6.png",
+    "dark": "cards/flip/dark/purple/number_4.png"
+  },
+  {
+    "id": "flip_012",
+    "light": "cards/flip/light/red/number_6.png",
+    "dark": "cards/flip/dark/teal/number_3.png"
+  },
+  {
+    "id": "flip_013",
+    "light": "cards/flip/light/red/number_7.png",
+    "dark": "cards/flip/dark/teal/number_9.png"
+  },
+  {
+    "id": "flip_014",
+    "light": "cards/flip/light/red/number_7.png",
+    "dark": "cards/flip/dark/orange/number_2.png"
+  },
+  {
+    "id": "flip_015",
+    "light": "cards/flip/light/red/number_8.png",
+    "dark": "cards/flip/dark/orange/flip.png"
+  },
+  {
+    "id": "flip_016",
+    "light": "cards/flip/light/red/number_8.png",
+    "dark": "cards/flip/dark/wild/wild_draw_color.png"
+  },
+  {
+    "id": "flip_017",
+    "light": "cards/flip/light/red/number_9.png",
+    "dark": "cards/flip/dark/orange/number_8.png"
+  },
+  {
+    "id": "flip_018",
+    "light": "cards/flip/light/red/number_9.png",
+    "dark": "cards/flip/dark/pink/number_8.png"
+  },
+  {
+    "id": "flip_019",
+    "light": "cards/flip/light/red/draw_one.png",
+    "dark": "cards/flip/dark/pink/skip_everyone.png"
+  },
+  {
+    "id": "flip_020",
+    "light": "cards/flip/light/red/draw_one.png",
+    "dark": "cards/flip/dark/teal/number_4.png"
+  },
+  {
+    "id": "flip_021",
+    "light": "cards/flip/light/red/skip.png",
+    "dark": "cards/flip/dark/pink/number_3.png"
+  },
+  {
+    "id": "flip_022",
+    "light": "cards/flip/light/red/skip.png",
+    "dark": "cards/flip/dark/purple/number_6.png"
+  },
+  {
+    "id": "flip_023",
+    "light": "cards/flip/light/red/reverse.png",
+    "dark": "cards/flip/dark/orange/number_3.png"
+  },
+  {
+    "id": "flip_024",
+    "light": "cards/flip/light/red/reverse.png",
+    "dark": "cards/flip/dark/pink/draw_five.png"
+  },
+  {
+    "id": "flip_025",
+    "light": "cards/flip/light/red/flip.png",
+    "dark": "cards/flip/dark/teal/number_7.png"
+  },
+  {
+    "id": "flip_026",
+    "light": "cards/flip/light/red/flip.png",
+    "dark": "cards/flip/dark/orange/reverse.png"
+  },
+  {
+    "id": "flip_027",
+    "light": "cards/flip/light/yellow/number_1.png",
+    "dark": "cards/flip/dark/teal/number_7.png"
+  },
+  {
+    "id": "flip_028",
+    "light": "cards/flip/light/yellow/number_1.png",
+    "dark": "cards/flip/dark/pink/number_7.png"
+  },
+  {
+    "id": "flip_029",
+    "light": "cards/flip/light/yellow/number_2.png",
+    "dark": "cards/flip/dark/teal/number_6.png"
+  },
+  {
+    "id": "flip_030",
+    "light": "cards/flip/light/yellow/number_2.png",
+    "dark": "cards/flip/dark/orange/skip_everyone.png"
+  },
+  {
+    "id": "flip_031",
+    "light": "cards/flip/light/yellow/number_3.png",
+    "dark": "cards/flip/dark/purple/skip_everyone.png"
+  },
+  {
+    "id": "flip_032",
+    "light": "cards/flip/light/yellow/number_3.png",
+    "dark": "cards/flip/dark/wild/wild_draw_color.png"
+  },
+  {
+    "id": "flip_033",
+    "light": "cards/flip/light/yellow/number_4.png",
+    "dark": "cards/flip/dark/orange/number_6.png"
+  },
+  {
+    "id": "flip_034",
+    "light": "cards/flip/light/yellow/number_4.png",
+    "dark": "cards/flip/dark/purple/number_1.png"
+  },
+  {
+    "id": "flip_035",
+    "light": "cards/flip/light/yellow/number_5.png",
+    "dark": "cards/flip/dark/orange/number_4.png"
+  },
+  {
+    "id": "flip_036",
+    "light": "cards/flip/light/yellow/number_5.png",
+    "dark": "cards/flip/dark/pink/number_8.png"
+  },
+  {
+    "id": "flip_037",
+    "light": "cards/flip/light/yellow/number_6.png",
+    "dark": "cards/flip/dark/pink/draw_five.png"
+  },
+  {
+    "id": "flip_038",
+    "light": "cards/flip/light/yellow/number_6.png",
+    "dark": "cards/flip/dark/wild/wild.png"
+  },
+  {
+    "id": "flip_039",
+    "light": "cards/flip/light/yellow/number_7.png",
+    "dark": "cards/flip/dark/orange/number_9.png"
+  },
+  {
+    "id": "flip_040",
+    "light": "cards/flip/light/yellow/number_7.png",
+    "dark": "cards/flip/dark/teal/number_8.png"
+  },
+  {
+    "id": "flip_041",
+    "light": "cards/flip/light/yellow/number_8.png",
+    "dark": "cards/flip/dark/teal/draw_five.png"
+  },
+  {
+    "id": "flip_042",
+    "light": "cards/flip/light/yellow/number_8.png",
+    "dark": "cards/flip/dark/orange/number_1.png"
+  },
+  {
+    "id": "flip_043",
+    "light": "cards/flip/light/yellow/number_9.png",
+    "dark": "cards/flip/dark/purple/number_8.png"
+  },
+  {
+    "id": "flip_044",
+    "light": "cards/flip/light/yellow/number_9.png",
+    "dark": "cards/flip/dark/teal/skip_everyone.png"
+  },
+  {
+    "id": "flip_045",
+    "light": "cards/flip/light/yellow/draw_one.png",
+    "dark": "cards/flip/dark/purple/flip.png"
+  },
+  {
+    "id": "flip_046",
+    "light": "cards/flip/light/yellow/draw_one.png",
+    "dark": "cards/flip/dark/pink/number_2.png"
+  },
+  {
+    "id": "flip_047",
+    "light": "cards/flip/light/yellow/skip.png",
+    "dark": "cards/flip/dark/purple/number_9.png"
+  },
+  {
+    "id": "flip_048",
+    "light": "cards/flip/light/yellow/skip.png",
+    "dark": "cards/flip/dark/orange/reverse.png"
+  },
+  {
+    "id": "flip_049",
+    "light": "cards/flip/light/yellow/reverse.png",
+    "dark": "cards/flip/dark/teal/number_3.png"
+  },
+  {
+    "id": "flip_050",
+    "light": "cards/flip/light/yellow/reverse.png",
+    "dark": "cards/flip/dark/pink/reverse.png"
+  },
+  {
+    "id": "flip_051",
+    "light": "cards/flip/light/yellow/flip.png",
+    "dark": "cards/flip/dark/pink/number_4.png"
+  },
+  {
+    "id": "flip_052",
+    "light": "cards/flip/light/yellow/flip.png",
+    "dark": "cards/flip/dark/purple/number_7.png"
+  },
+  {
+    "id": "flip_053",
+    "light": "cards/flip/light/green/number_1.png",
+    "dark": "cards/flip/dark/orange/number_5.png"
+  },
+  {
+    "id": "flip_054",
+    "light": "cards/flip/light/green/number_1.png",
+    "dark": "cards/flip/dark/pink/number_5.png"
+  },
+  {
+    "id": "flip_055",
+    "light": "cards/flip/light/green/number_2.png",
+    "dark": "cards/flip/dark/orange/number_6.png"
+  },
+  {
+    "id": "flip_056",
+    "light": "cards/flip/light/green/number_2.png",
+    "dark": "cards/flip/dark/purple/number_3.png"
+  },
+  {
+    "id": "flip_057",
+    "light": "cards/flip/light/green/number_3.png",
+    "dark": "cards/flip/dark/pink/number_7.png"
+  },
+  {
+    "id": "flip_058",
+    "light": "cards/flip/light/green/number_3.png",
+    "dark": "cards/flip/dark/teal/number_4.png"
+  },
+  {
+    "id": "flip_059",
+    "light": "cards/flip/light/green/number_4.png",
+    "dark": "cards/flip/dark/teal/draw_five.png"
+  },
+  {
+    "id": "flip_060",
+    "light": "cards/flip/light/green/number_4.png",
+    "dark": "cards/flip/dark/pink/number_1.png"
+  },
+  {
+    "id": "flip_061",
+    "light": "cards/flip/light/green/number_5.png",
+    "dark": "cards/flip/dark/purple/number_3.png"
+  },
+  {
+    "id": "flip_062",
+    "light": "cards/flip/light/green/number_5.png",
+    "dark": "cards/flip/dark/wild/wild.png"
+  },
+  {
+    "id": "flip_063",
+    "light": "cards/flip/light/green/number_6.png",
+    "dark": "cards/flip/dark/orange/draw_five.png"
+  },
+  {
+    "id": "flip_064",
+    "light": "cards/flip/light/green/number_6.png",
+    "dark": "cards/flip/dark/teal/flip.png"
+  },
+  {
+    "id": "flip_065",
+    "light": "cards/flip/light/green/number_7.png",
+    "dark": "cards/flip/dark/purple/number_2.png"
+  },
+  {
+    "id": "flip_066",
+    "light": "cards/flip/light/green/number_7.png",
+    "dark": "cards/flip/dark/pink/reverse.png"
+  },
+  {
+    "id": "flip_067",
+    "light": "cards/flip/light/green/number_8.png",
+    "dark": "cards/flip/dark/wild/wild_draw_color.png"
+  },
+  {
+    "id": "flip_068",
+    "light": "cards/flip/light/green/number_8.png",
+    "dark": "cards/flip/dark/purple/number_1.png"
+  },
+  {
+    "id": "flip_069",
+    "light": "cards/flip/light/green/number_9.png",
+    "dark": "cards/flip/dark/orange/draw_five.png"
+  },
+  {
+    "id": "flip_070",
+    "light": "cards/flip/light/green/number_9.png",
+    "dark": "cards/flip/dark/teal/number_1.png"
+  },
+  {
+    "id": "flip_071",
+    "light": "cards/flip/light/green/draw_one.png",
+    "dark": "cards/flip/dark/purple/draw_five.png"
+  },
+  {
+    "id": "flip_072",
+    "light": "cards/flip/light/green/draw_one.png",
+    "dark": "cards/flip/dark/teal/number_6.png"
+  },
+  {
+    "id": "flip_073",
+    "light": "cards/flip/light/green/skip.png",
+    "dark": "cards/flip/dark/pink/flip.png"
+  },
+  {
+    "id": "flip_074",
+    "light": "cards/flip/light/green/skip.png",
+    "dark": "cards/flip/dark/orange/number_8.png"
+  },
+  {
+    "id": "flip_075",
+    "light": "cards/flip/light/green/reverse.png",
+    "dark": "cards/flip/dark/teal/number_2.png"
+  },
+  {
+    "id": "flip_076",
+    "light": "cards/flip/light/green/reverse.png",
+    "dark": "cards/flip/dark/pink/number_2.png"
+  },
+  {
+    "id": "flip_077",
+    "light": "cards/flip/light/green/flip.png",
+    "dark": "cards/flip/dark/orange/number_5.png"
+  },
+  {
+    "id": "flip_078",
+    "light": "cards/flip/light/green/flip.png",
+    "dark": "cards/flip/dark/purple/reverse.png"
+  },
+  {
+    "id": "flip_079",
+    "light": "cards/flip/light/blue/number_1.png",
+    "dark": "cards/flip/dark/orange/number_9.png"
+  },
+  {
+    "id": "flip_080",
+    "light": "cards/flip/light/blue/number_1.png",
+    "dark": "cards/flip/dark/teal/number_5.png"
+  },
+  {
+    "id": "flip_081",
+    "light": "cards/flip/light/blue/number_2.png",
+    "dark": "cards/flip/dark/pink/number_4.png"
+  },
+  {
+    "id": "flip_082",
+    "light": "cards/flip/light/blue/number_2.png",
+    "dark": "cards/flip/dark/purple/number_5.png"
+  },
+  {
+    "id": "flip_083",
+    "light": "cards/flip/light/blue/number_3.png",
+    "dark": "cards/flip/dark/pink/number_9.png"
+  },
+  {
+    "id": "flip_084",
+    "light": "cards/flip/light/blue/number_3.png",
+    "dark": "cards/flip/dark/teal/number_8.png"
+  },
+  {
+    "id": "flip_085",
+    "light": "cards/flip/light/blue/number_4.png",
+    "dark": "cards/flip/dark/purple/draw_five.png"
+  },
+  {
+    "id": "flip_086",
+    "light": "cards/flip/light/blue/number_4.png",
+    "dark": "cards/flip/dark/orange/number_2.png"
+  },
+  {
+    "id": "flip_087",
+    "light": "cards/flip/light/blue/number_5.png",
+    "dark": "cards/flip/dark/pink/number_9.png"
+  },
+  {
+    "id": "flip_088",
+    "light": "cards/flip/light/blue/number_5.png",
+    "dark": "cards/flip/dark/wild/wild.png"
+  },
+  {
+    "id": "flip_089",
+    "light": "cards/flip/light/blue/number_6.png",
+    "dark": "cards/flip/dark/purple/number_8.png"
+  },
+  {
+    "id": "flip_090",
+    "light": "cards/flip/light/blue/number_6.png",
+    "dark": "cards/flip/dark/wild/wild_draw_color.png"
+  },
+  {
+    "id": "flip_091",
+    "light": "cards/flip/light/blue/number_7.png",
+    "dark": "cards/flip/dark/purple/number_9.png"
+  },
+  {
+    "id": "flip_092",
+    "light": "cards/flip/light/blue/number_7.png",
+    "dark": "cards/flip/dark/orange/flip.png"
+  },
+  {
+    "id": "flip_093",
+    "light": "cards/flip/light/blue/number_8.png",
+    "dark": "cards/flip/dark/purple/reverse.png"
+  },
+  {
+    "id": "flip_094",
+    "light": "cards/flip/light/blue/number_8.png",
+    "dark": "cards/flip/dark/pink/flip.png"
+  },
+  {
+    "id": "flip_095",
+    "light": "cards/flip/light/blue/number_9.png",
+    "dark": "cards/flip/dark/orange/number_3.png"
+  },
+  {
+    "id": "flip_096",
+    "light": "cards/flip/light/blue/number_9.png",
+    "dark": "cards/flip/dark/pink/skip_everyone.png"
+  },
+  {
+    "id": "flip_097",
+    "light": "cards/flip/light/blue/draw_one.png",
+    "dark": "cards/flip/dark/teal/flip.png"
+  },
+  {
+    "id": "flip_098",
+    "light": "cards/flip/light/blue/draw_one.png",
+    "dark": "cards/flip/dark/orange/number_7.png"
+  },
+  {
+    "id": "flip_099",
+    "light": "cards/flip/light/blue/skip.png",
+    "dark": "cards/flip/dark/orange/skip_everyone.png"
+  },
+  {
+    "id": "flip_100",
+    "light": "cards/flip/light/blue/skip.png",
+    "dark": "cards/flip/dark/teal/reverse.png"
+  },
+  {
+    "id": "flip_101",
+    "light": "cards/flip/light/blue/reverse.png",
+    "dark": "cards/flip/dark/teal/number_1.png"
+  },
+  {
+    "id": "flip_102",
+    "light": "cards/flip/light/blue/reverse.png",
+    "dark": "cards/flip/dark/pink/number_6.png"
+  },
+  {
+    "id": "flip_103",
+    "light": "cards/flip/light/blue/flip.png",
+    "dark": "cards/flip/dark/teal/number_5.png"
+  },
+  {
+    "id": "flip_104",
+    "light": "cards/flip/light/blue/flip.png",
+    "dark": "cards/flip/dark/purple/number_4.png"
+  },
+  {
+    "id": "flip_105",
+    "light": "cards/flip/light/wild/wild.png",
+    "dark": "cards/flip/dark/pink/number_6.png"
+  },
+  {
+    "id": "flip_106",
+    "light": "cards/flip/light/wild/wild.png",
+    "dark": "cards/flip/dark/teal/number_9.png"
+  },
+  {
+    "id": "flip_107",
+    "light": "cards/flip/light/wild/wild.png",
+    "dark": "cards/flip/dark/orange/number_1.png"
+  },
+  {
+    "id": "flip_108",
+    "light": "cards/flip/light/wild/wild.png",
+    "dark": "cards/flip/dark/purple/number_2.png"
+  },
+  {
+    "id": "flip_109",
+    "light": "cards/flip/light/wild/wild_draw_two.png",
+    "dark": "cards/flip/dark/pink/number_3.png"
+  },
+  {
+    "id": "flip_110",
+    "light": "cards/flip/light/wild/wild_draw_two.png",
+    "dark": "cards/flip/dark/teal/number_2.png"
+  },
+  {
+    "id": "flip_111",
+    "light": "cards/flip/light/wild/wild_draw_two.png",
+    "dark": "cards/flip/dark/orange/number_7.png"
+  },
+  {
+    "id": "flip_112",
+    "light": "cards/flip/light/wild/wild_draw_two.png",
+    "dark": "cards/flip/dark/purple/number_5.png"
+  }
+]

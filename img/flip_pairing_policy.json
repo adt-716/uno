@@ -1,0 +1,19 @@
+{
+  "id": "uno-club-balanced-v1",
+  "seed": 20261107,
+  "physicalMattelPairing": false,
+  "deckSha256": "fe125af6080a148880e7086c7fc0705ca962ed1085929f07dacdce3b0b8f9a27",
+  "constraints": {
+    "cards": 112,
+    "coloredPairCountPerLightDarkColor": 6,
+    "darkWildPerLightColor": 1,
+    "darkWildDrawColorPerLightColor": 1,
+    "lightWildsPerDarkColor": 2,
+    "lightWildsPairedWithNumbersOnly": true,
+    "darkWildsPairedWithNumbersOnly": true,
+    "actionToActionPairsPerLightColor": 3,
+    "duplicateLightFacesHaveDifferentDarkColors": true,
+    "sameNumberOnBothSides": false,
+    "flipOnBothSides": false
+  }
+}
